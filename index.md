@@ -15,13 +15,15 @@ Unidata staff are actively developing and curating the material
 here, but what you see today is an early version of what we
 envision for this resource. Please forgive the unfinished nature
 of the materials here, and feel free to give us your suggestions
-for additions or improvements by contacting @unidata/team-python.
+for additions or improvements by contacting @unidata/python.
 
 ## Getting Started
+- [Installing Python](installing.html)
 - [Installing Python on Mac OS X](conda-osx.html)
 - Installing Python on Microsoft Windows
 - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)
 (*Free* video from egghead.io)
+- Creating a GitHub Account
 - [Python-based notebooks](introduction.html)
 - How to start and run a notebook
 - Whetting your appetite
@@ -45,4 +47,4 @@ for additions or improvements by contacting @unidata/team-python.
 - Metpy
 
 ### Support or Contact
-@unidata/team-python
+@unidata/python
