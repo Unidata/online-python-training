@@ -9,7 +9,7 @@ we are developing this material.
 ## Getting Started
 - Installing Python
 - Creating a GitHub Account
-- What are notebooks for
+- [What are notebooks for](introduction.html)
 - How to start and run the notebook
 - Whetting your appetite
 

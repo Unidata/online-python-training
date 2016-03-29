@@ -1,3 +1,6 @@
+---
+title: Why Jupyter Notebooks and IPython Technology?
+---
 # Why Jupyter Notebooks and IPython Technology?
 
 ## Jupyter Notebooks
@@ -25,7 +28,7 @@ Before getting into "What is Python?", the advantages of Python were once succin
 
 ### What is Python?
 
-Python is a "batteries included" computer programming language. More concretely, Python is a programming language 
+Python is a "batteries included" computer programming language. More concretely, Python is a programming language
 that, in contrast to other programming languages such as C, Fortran, or Java, allows users to more readily focus and solve domain problems instead of dealing with the complexity of how a computer operates. Python achieves this goal by having the following attributes:
 
 -   Python is a **high-level** language meaning that it abstracts underlying computer-related technical details.  For example, Python does not make its users think too much about computer memory management or proper declaration of variables and uses safe assumptions about what the programmer is trying to convey. In addition, a high-level language can be expressed in a manner closer to English prose or mathematical equations. Python is perfect for literate programming because of its lightweight, "low ceremony" nature.
