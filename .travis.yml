@@ -1,0 +1,28 @@
+sudo: false
+
+# For running jekyll
+language: ruby
+
+# Needed for some github-pages dependencies
+rvm: 2.2
+
+branches:
+  only:
+    - master
+    - gh-pages
+
+before_install:
+  - gem install github-pages
+  - pip install --user linkchecker pyopenssl ndg-httpsclient pyasn1;
+
+script:
+  - jekyll build 2>build.log
+  - if [ -s build.log ]; then
+        echo Build produced errors:;
+        cat build.log;
+        false;
+    else
+      echo Checking links;
+      linkchecker --anchors --check-extern _site;
+    fi
+        
