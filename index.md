@@ -19,10 +19,13 @@ for additions or improvements by contacting @unidata/team-python.
 
 ## Getting Started
 - Installing Python
-- Creating a GitHub Account
+- [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)
+(*Free* video from egghead.io)
 - [Python-based notebooks](introduction.html)
 - How to start and run a notebook
 - Whetting your appetite
+- [How to contribute on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+(*Free* video series from egghead.io)
 
 ## Beginning Python Concepts
 - Flow control
