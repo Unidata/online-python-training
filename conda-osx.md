@@ -20,8 +20,7 @@ Download the Python 3.5 version by clicking on the "Mac OS X 64 bit Graphical In
 
 This action will guide you through the [conda installation on your Mac](https://docs.continuum.io/anaconda/install#anaconda-for-os-x-graphical-install). The second "Read Me" step is important, as the installation will make some modifications that the OS X Terminal application can make use of. We cover the OS X Terminal next.
 
-<!-- <img src="images/conda.gif" alt="Anaconda Installer" onclick='this.src=this.src'/> -->
-<img src="http://motherlode.ucar.edu/repository/entry/get/conda.gif?entryid=c4d61f0c-5b77-4606-b803-b38b041e61f5" alt="Anaconda Installer" onclick='this.src=this.src'/>
+<img src="images/conda.gif" alt="Anaconda Installer" onclick='this.src=this.src'/>
 
 ## OS X Terminal Application
 
@@ -29,8 +28,7 @@ The OS X Terminal is a software program that gives you the ability to give text 
 
 For this exercise we will open up the Terminal by going to the OS X Finder and navigating to the Application, Utilities folder. There you will find the Terminal application which you can double click on to launch.
 
-<!-- <img src="images/terminal.gif" alt="OS X Terminal" onclick='this.src=this.src'/> -->
-<img src="http://motherlode.ucar.edu/repository/entry/get/terminal.gif?entryid=4b8afa77-eb2c-4bff-8acc-59744c2b3863" alt="OS X Terminal" onclick='this.src=this.src'/>
+<img src="images/terminal.gif" alt="OS X Terminal" onclick='this.src=this.src'/>
 
 In the Terminal application, you will see a character such as **`$`** symbol known as the **command line**. The command line is where you give text instructions to your computer. 
 
@@ -62,8 +60,7 @@ which will list linked packages in a conda environment. You’ll notice librarie
 
 If `conda list` worked without trouble, skip this subsection. If that last `conda list` command gave you an error, it is possible that you are running the wrong flavor of the OS X Terminal (or more precisely the wrong Unix shell). Ensure you are running the `bash` shell by going to Terminal, Preferences… menu, and verifying that `/bin/bash` is selected. If you change it, please quit, and restart the Terminal application.
 
-<!-- <img src="images/bash.gif" alt="/bin/bash" onclick='this.src=this.src'/> -->
-<img src="http://motherlode.ucar.edu/repository/entry/get/bash.gif?entryid=4aad8546-5782-4e47-8a16-3dc866c6696b" alt="/bin/bash" onclick='this.src=this.src'/>
+<img src="images/bash.gif" alt="/bin/bash" onclick='this.src=this.src'/>
 
 ## Getting Our Feet Wet by Installing Metpy with `conda`
 
