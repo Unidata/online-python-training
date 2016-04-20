@@ -18,7 +18,8 @@ of the materials here, and feel free to give us your suggestions
 for additions or improvements by contacting @unidata/team-python.
 
 ## Getting Started
-- Installing Python
+- [Installing Python on Mac OS X](conda-osx.html)
+- Installing Python on Microsoft Windows
 - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)
 (*Free* video from egghead.io)
 - [Python-based notebooks](introduction.html)
