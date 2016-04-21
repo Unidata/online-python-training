@@ -26,10 +26,13 @@ for additions or improvements by contacting @unidata/python.
   - [How to contribute on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
     (*Free* video series from egghead.io)
   - [Online Interactive Git Tutorial (from GitHub)](https://try.github.io/)
-- [Installing Python on Mac OS X](conda-osx.html)
-- Installing Python on Microsoft Windows
-- [Python-based notebooks](introduction.html)
-- How to start and run a notebook
+- Installing Python
+  - [Which Python?](choosing.html)
+  - [Installing Python on Mac OS X](conda-osx.html)
+  - Installing Python on Microsoft Windows
+- Notebooks
+  - [Python-based notebooks](introduction.html)
+  - How to start and run a notebook
 - Whetting your appetite
 
 ## Beginning Python Concepts

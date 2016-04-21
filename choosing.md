@@ -1,5 +1,5 @@
 ---
-title: Installing Python
+title: Which Python
 ---
 # Where To Get Python
 While it's possible to install Python directly from [python.org](https://wiki.python.org/moin/BeginnersGuide/Download),
@@ -49,7 +49,3 @@ resources:
 Our recommendation is to use Python 3 installed through Miniconda. All of the
 subsequent materials here will assume the use of Python 3; however, the use
 of features available **only** in Python 3 will be minimal (*if any*).
-
-# Using Conda
-- creating environments
-- Link to conda test drive
