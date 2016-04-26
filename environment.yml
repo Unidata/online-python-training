@@ -1,0 +1,14 @@
+ name: unidata-training
+ channels:
+   - https://conda.anaconda.org/conda-forge
+ dependencies:
+   - python=3
+   - numpy
+   - matplotlib
+   - cartopy
+   - jupyter
+   - netcdf4
+   - metpy
+   - pint<0.7
+   - siphon
+
