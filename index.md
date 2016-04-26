@@ -17,6 +17,8 @@ envision for this resource. Please forgive the unfinished nature
 of the materials here, and feel free to give us your suggestions
 for additions or improvements by contacting @unidata/python.
 
+## Introduction
+  - [Why Python and Jupyter Notebooks?](introduction.html)
 ## Getting Started
 - GitHub is a on-line platform for hosting code that promotes collaboration.
   - [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
@@ -31,7 +33,6 @@ for additions or improvements by contacting @unidata/python.
   - [Installing Python on Mac OS X](conda-osx.html)
   - Installing Python on Microsoft Windows
 - Notebooks
-  - [Python-based notebooks](introduction.html)
   - How to start and run a notebook
 - Whetting your appetite
 
