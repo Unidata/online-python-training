@@ -1,7 +1,7 @@
 ---
-title: Why Jupyter Notebooks and IPython Technology?
+title: Why Python and Jupyter Notebooks?
 ---
-# Why Jupyter Notebooks and IPython Technology?
+# Why Python and Jupyter Notebooks?
 
 ## Jupyter Notebooks
 
