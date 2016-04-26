@@ -19,6 +19,7 @@ for additions or improvements by contacting @unidata/python.
 
 ## Introduction
   - [Why Python and Jupyter Notebooks?](introduction.html)
+
 ## Getting Started
 - GitHub is a on-line platform for hosting code that promotes collaboration.
   - [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
