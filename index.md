@@ -35,7 +35,7 @@ for additions or improvements by contacting @unidata/python.
   - Installing Python on Microsoft Windows
 - Notebooks
   - How to start and run a notebook
-- Whetting your appetite
+- [Whetting your appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
 
 ## Beginning Python Concepts
 - Flow control
