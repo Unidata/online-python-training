@@ -29,6 +29,7 @@ for additions or improvements by contacting @unidata/python.
   - [How to contribute on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
     (*Free* video series from egghead.io)
   - [Online Interactive Git Tutorial (from GitHub)](https://try.github.io/)
+  - [Mac OS X and Windows Desktop Applications for Using Git and Github](https://git-scm.com/download/gui/windows)
 - Installing Python
   - [Which Python?](choosing.html)
   - [Installing Python on Mac OS X](conda-osx.html)
