@@ -35,7 +35,7 @@ for additions or improvements by contacting @unidata/python.
   - [Installing Python on Mac OS X](conda-osx.html)
   - Installing Python on Microsoft Windows
 - Notebooks
-  - How to start and run a notebook
+  - [How to start and run a notebook](notebook.html)
 - [Whetting your appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
