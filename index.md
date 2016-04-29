@@ -38,6 +38,12 @@ for additions or improvements by contacting @unidata/python.
   - How to start and run a notebook
 - [Whetting your appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
 
+## Basic Python Syntax
+Here are some good sources for learning the basics of Python's Syntax:
+- [Codecademy](https://www.codecademy.com/learn/python) has some free lessons on learning Python
+- [learnpython.org](http://www.learnpython.org/) also has some free, interactive materials
+- The [official](https://docs.python.org/3.5/tutorial/index.html) Python tutorial is pretty good as well
+
 ## Beginning Python Concepts
 - Flow control
 - Basic data structures
