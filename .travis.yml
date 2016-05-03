@@ -13,7 +13,7 @@ branches:
 
 before_install:
   - gem install github-pages
-  - pip install --user linkchecker pyopenssl ndg-httpsclient pyasn1;
+  - pip install --user linkchecker pyopenssl ndg-httpsclient pyasn1 "requests<=2.9";
 
 script:
   - jekyll build 2>build.log
