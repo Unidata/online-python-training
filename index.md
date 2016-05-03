@@ -15,7 +15,7 @@ Unidata staff are actively developing and curating the material
 here, but what you see today is an early version of what we
 envision for this resource. Please forgive the unfinished nature
 of the materials here, and feel free to give us your suggestions
-for additions or improvements by contacting @unidata/python.
+for additions or improvements by contacting [Unidata Python Support](support.html).
 
 ## Introduction
   - [Why Python and Jupyter Notebooks?](introduction.html)
@@ -62,4 +62,4 @@ Here are some good sources for learning the basics of Python's Syntax:
 - Metpy
 
 ### Support or Contact
-@unidata/python
+- [Unidata Python Support](support.html)
