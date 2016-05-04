@@ -3,19 +3,18 @@ title: Welcome to Unidata's Online Python Training
 ---
 
 # Unidata's Online Python Training
-With support from the National Science Foundation, Unidata is working
-to create a collection of online training materials focused
-on the use of Python in the atmospheric sciences. While our
-examples and scenarios may feature Unidata tools and data
-technologies, our aim is to present a generic set of freely
-available tools that are generally useful to scientists,
-educators, and students in the geosciences, broadly defined.
+With support from the National Science Foundation, Unidata is working to create
+a collection of online training materials focused on the use of Python in the
+atmospheric sciences. While our examples and scenarios may feature Unidata tools
+and data technologies, our aim is to present a generic set of freely available
+tools that are generally useful to scientists, educators, and students in the
+geosciences, broadly defined.
 
-Unidata staff are actively developing and curating the material
-here, but what you see today is an early version of what we
-envision for this resource. Please forgive the unfinished nature
-of the materials here, and feel free to give us your suggestions
-for additions or improvements by contacting @unidata/python.
+Unidata staff are actively developing and curating the material here, but what
+you see today is an early version of what we envision for this resource. Please
+forgive the unfinished nature of the materials here, and feel free to give us
+your suggestions for additions or improvements by contacting
+[Unidata Python Support](support.html).
 
 ## Introduction
   - [Why Python and Jupyter Notebooks?](introduction.html)
@@ -62,4 +61,4 @@ Here are some good sources for learning the basics of Python's Syntax:
 - Metpy
 
 ### Support or Contact
-@unidata/python
+- [Unidata Python Support](support.html)
