@@ -22,7 +22,9 @@ This action will guide you through the [conda installation on Windows](https://d
 
 ## Windows Command Prompt
 
-The Windows Command Prompt is a software program that gives you the ability to give text based instructions to your computer.
+The Windows Command Prompt is a software program that gives you the ability to give text based instructions to your computer. 
+
+To open the Windows Command Prompt, navigate to the start button and search 'command prompt' in the search bar, located at the bottom left of the start menu.
 
 In the Windows Command Prompt, you will see some text such as **`C:\Users\Jane>`**. This is known as the **command line**. The command line is where you give text instructions to your computer.
 
