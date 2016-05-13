@@ -19,7 +19,7 @@ applications of environments:
 * A disposable environment for testing a new library without polluting the rest
   of the Python install; this environment can easily be discarded when no
   longer needed
-* Quick set up of a known set of dependencies for workshops and tutorials
+* Quick set up of a known set of libraries and programs for workshops and tutorials
 
 ## Anaconda vs. Miniconda
 There are two options for getting Conda:
@@ -29,7 +29,7 @@ distribution of Python, and comes with over 150 packages in the download;
 consequently, this download is over 3GB. Anaconda is good if you want to have
 many packages downloaded and available in one shot; this is especially useful
 if you know you'll be working offline for awhile. Miniconda contains only
-Python and the dependencies needed to run Conda itself; other packages will be
+Python and other libraries needed to run Conda itself; other packages will be
 downloaded and installed as requested. For more information, see
 [here](http://conda.pydata.org/docs/download.html).
 
