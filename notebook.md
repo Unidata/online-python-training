@@ -40,6 +40,8 @@ and press Shift-Enter to actually run the cell yielding
 <!-- Cannot handle in pure markdown b/c of onclick -->
 <img src="images/jupyter.gif" alt="Starting Jupyter" onclick='this.src=this.src'/>
 
+For more information on the basics of using the Jupyter Notebook, we recommend starting with this notebook on [Notebook Basics](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb).
+
 ### Obtaining Existing Notebooks from Github
 
 Alternatively, you can obtain your notebooks from a github project. For example, the [Unidata Python Workshop](https://github.com/Unidata/unidata-python-workshop) project (see the `notebooks` subfolder) has a series of notebooks on exploring Unidata technology with Python. Please see the [section on git and github](conda-osx.html) to clone this or any other repository containing Jupyter notebooks. At that point, you can go to your folder where the repository has been cloned and start Jupyter with the `jupyter notebook` command.
