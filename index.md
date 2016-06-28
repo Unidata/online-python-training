@@ -47,9 +47,9 @@ Here are some good sources for learning the basics of Python's Syntax:
 
 ## Beginning Python Concepts
 - Flow control
-- Basic data structures
-- Basic I/O
-- Dates in Python
+- [Basic Data Structures](https://github.com/Unidata/online-python-training/blob/master/notebooks/Basic%20Data%20Structures.ipynb)
+- [Basic Input and Output](https://github.com/Unidata/online-python-training/blob/master/notebooks/Basic%20Input%20and%20Output.ipynb)
+- [Times and Dates](https://github.com/Unidata/online-python-training/blob/master/notebooks/Times%20and%20Dates.ipynb)
 
 ## Scientific Python Packages
 - NumPy
