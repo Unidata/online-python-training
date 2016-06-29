@@ -20,7 +20,7 @@ your suggestions for additions or improvements by contacting
   - [Why Python and Jupyter Notebooks?](introduction.html)
 
 ## Getting Started
-- GitHub is a on-line platform for hosting code that promotes collaboration.
+- GitHub is a online platform for hosting code that promotes collaboration.
   - [What Is Git, Github and Why Do You Care](git.html)
   - [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
   - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)

@@ -25,7 +25,7 @@ Before getting into "What is Python?", the advantages of Python were once succin
 
 > I have used a combination of Perl, Fortran, NCL, Matlab, R and others for
 > routine research, but found out this general- purpose language, Python, can
-> handle almost all in an efficient way from requesting data from remote on-line
+> handle almost all in an efficient way from requesting data from remote online
 > sites to statistics, and graphics.
 
 ### What is Python?
