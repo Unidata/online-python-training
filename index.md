@@ -17,6 +17,7 @@ your suggestions for additions or improvements by contacting
 [Unidata Python Support](support.html).
 
 ## Introduction
+  - [What Is This?](what.html)
   - [Why Python and Jupyter Notebooks?](introduction.html)
 
 ## Getting Started
