@@ -1,7 +1,7 @@
 ---
 title: Which Python
 ---
-# Where To Get Python
+# Where to Get Python
 While it's possible to install Python directly from [python.org](https://wiki.python.org/moin/BeginnersGuide/Download),
 we recommend using [Conda](http://conda.pydata.org/docs/index.html) instead.
 Conda is a package management system, from ContinuumIO, created specifically to
