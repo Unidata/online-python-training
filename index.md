@@ -37,7 +37,7 @@ your suggestions for additions or improvements by contacting
   - [Installing Python on Microsoft Windows](conda-windows.html)
 - Notebooks
   - [How to Start and Run a Notebook](notebook.html)
-- [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
+- [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20Your%20Appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
 Here are some good sources for learning the basics of Python's Syntax:
