@@ -27,7 +27,7 @@ your suggestions for additions or improvements by contacting
   - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)
     (*Free* video from egghead.io)
   - [GitHub's Guides](https://guides.github.com/)
-  - [How to contribute on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+  - [How to Contribute on Github](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
     (*Free* video series from egghead.io)
   - [Online Interactive Git Tutorial (from GitHub)](https://try.github.io/)
   - [Mac OS X and Windows Desktop Applications for Using Git and Github](https://git-scm.com/download/gui/windows)
@@ -36,8 +36,8 @@ your suggestions for additions or improvements by contacting
   - [Installing Python on Mac OS X](conda-osx.html)
   - [Installing Python on Microsoft Windows](conda-windows.html)
 - Notebooks
-  - [How to start and run a notebook](notebook.html)
-- [Whetting your appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
+  - [How to Start and Run a Notebook](notebook.html)
+- [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20your%20appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
 Here are some good sources for learning the basics of Python's Syntax:

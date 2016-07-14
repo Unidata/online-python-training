@@ -28,7 +28,7 @@ Before getting into "What is Python?", the advantages of Python were once succin
 > handle almost all in an efficient way from requesting data from remote online
 > sites to statistics, and graphics.
 
-### What is Python?
+### What Is Python?
 
 Python is a "batteries included" computer programming language. More concretely, Python is a programming language
 that, in contrast to other programming languages such as C, Fortran, or Java, allows users to more readily focus and solve domain problems instead of dealing with the complexity of how a computer operates. Python achieves this goal by having the following attributes:
