@@ -43,6 +43,7 @@ Python 3. For information about what's new in Python 3, there are a variety of
 resources:
 
 - [Official Python Docs](https://docs.python.org/3/whatsnew/)
+- Lexy Munroe's Detailed [Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
 - [Nick Coghlan's (core Python developer) Python Notes](http://python-notes.curiousefficiency.org/en/latest/python3/index.html)
 - [Brett Cannon's (another core developer) Blog](http://www.snarky.ca/why-python-3-exists)
 
