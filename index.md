@@ -37,6 +37,7 @@ your suggestions for additions or improvements by contacting
   - [Installing Python on Microsoft Windows](conda-windows.html)
 - Notebooks
   - [How to Start and Run a Notebook](notebook.html)
+  - [Unidata's Notebook Gallery](http://unidata.github.io/notebook-gallery)
 - [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20Your%20Appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
