@@ -18,7 +18,7 @@ The `conda` package management tool is part of the Anaconda software package. In
 
 Download the Python 3.5 version by clicking on the "Windows 64 bit Graphical Installer" link. It is a big download, so it is best to be on fast network. Open the installer file you just downloaded. It should be named something like `Anaconda[version]-Windows-x86_64`.
 
-This action will guide you through the [conda installation on Windows](https://docs.continuum.io/anaconda/install#anaconda-for-os-x-graphical-install). The last step of the installation process will ask you if you want to add Anaconda to my the PATH environment variable. Ensure this option is checked.
+This action will guide you through the [conda installation on Windows](https://docs.continuum.io/anaconda/install#anaconda-for-windows-install). The last step of the installation process will ask you if you want to add Anaconda to my the PATH environment variable. Ensure this option is checked.
 
 ## Windows Command Prompt
 
