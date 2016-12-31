@@ -48,9 +48,10 @@ Here are some good sources for learning the basics of Python's Syntax:
 - The [official](https://docs.python.org/3.5/tutorial/index.html) Python tutorial is pretty good as well
 
 ## Beginning Python Concepts
-- Flow control
+- [Control Flow](controlflowintro.html)
   - [Conditionals](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Conditionals.ipynb)
-  - Looping
+  - [Loops](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Loops.ipynb)
+  - [Functions](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Functions.ipynb)
 - [Basic Data Structures](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Basic%20Data%20Structures.ipynb)
 - [Basic Input and Output](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Basic%20Input%20and%20Output.ipynb)
 - [Times and Dates](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Times%20and%20Dates.ipynb)
