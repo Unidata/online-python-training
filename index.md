@@ -48,6 +48,8 @@ Here are some good sources for learning the basics of Python's Syntax:
 - The [official](https://docs.python.org/3.5/tutorial/index.html) Python tutorial is pretty good as well
 
 ## Beginning Python Concepts
+What follows is a series of notebooks on learning Python with geoscience objectives. You can either peruse this material with the nbviewer links below or [run the notebooks interactively](notebook.html#how-to-run-opt-notebooks).
+
 - [Control Flow](controlflowintro.html)
   - [Conditionals](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Conditionals.ipynb)
   - [Loops](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Loops.ipynb)
