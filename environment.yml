@@ -7,8 +7,12 @@
    - matplotlib
    - cartopy
    - jupyter
+   - libnetcdf!=4.4.1.1
    - netcdf4
+   - owslib
    - metpy
-   - pint<0.7
+   - pint
+   - shapely
    - siphon
-
+   - xarray
+   - pip
