@@ -2,7 +2,7 @@
 title: What Is Git, Github and Why Do You Care
 ---
 
-# What Is Git, Github and Why Do You Care
+# What Is Git, Github and Why Do You Care?
 
 ## Motivation
 

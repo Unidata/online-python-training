@@ -27,7 +27,7 @@ your suggestions for additions or improvements by contacting
 
 GitHub is a online platform for hosting code that promotes collaboration.
 
-- [What Is Git, Github and Why Do You Care](git.html)
+- [What Is Git, Github and Why Do You Care?](git.html)
 - [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
 - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github) (*Free* video from egghead.io)
 - [GitHub's Guides](https://guides.github.com/)
