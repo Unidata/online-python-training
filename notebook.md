@@ -42,10 +42,10 @@ and press Shift-Enter to actually run the cell yielding
 
 For more information on the basics of using the Jupyter Notebook, we recommend starting with this notebook on [Notebook Basics](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb).
 
-### How to Run OPT Notebooks
+### How to Run OPT Jupyter Notebooks
 
-This project includes a [series of notebooks](http://unidata.github.io/online-python-training/index.html#beginning-python-concepts) for learning Python with geoscience objectives. They are located in the `notebooks` folder in the git `master` branch. In order to clone this project or any projects containing Jupyter notebooks such as the [Unidata Python Workshop](https://github.com/Unidata/unidata-python-workshop), please see the [section on git and github](http://unidata.github.io/online-python-training/index.html#getting-started). Once you have cloned your repository, change directory to where the notebooks are located in the repository folder (e.g., the `notebooks` directory) and start Jupyter with the `jupyter notebook` command.
+This project includes a [series of Jupyter notebooks](http://unidata.github.io/online-python-training/index.html#beginning-python-concepts) for learning Python with geoscience objectives. They are located in the `notebooks` folder in the git `master` branch. In order to clone this project or any projects containing Jupyter notebooks such as the [Unidata Python Workshop](https://github.com/Unidata/unidata-python-workshop), please see the [section on git and github](http://unidata.github.io/online-python-training/index.html#getting-started). Once you have cloned your repository, change directory to where the Jupyter notebooks are located in the repository folder (e.g., the `notebooks` directory) and start Jupyter with the `jupyter notebook` command.
 
-## MyBinder and Starting your Notebook in the Cloud
+## MyBinder and Starting your Jupyter Notebook in the Cloud
 
-MyBinder is a third option that runs Jupyter notebooks on a cloud server that is setup on your behalf. If the project has enabled MyBinder, you will see a <img src="http://mybinder.org/badge.svg" alt="MyBinder"/> badge on the github project page. MyBinder is available for the Unidata Python Workshop notebooks at [this link](https://github.com/Unidata/unidata-python-workshop). See the [MyBinder](http://mybinder.org/) website for more information.
+MyBinder is a third option that runs Jupyter notebooks on a cloud server that is setup on your behalf. If the project has enabled MyBinder, you will see a <img src="http://mybinder.org/badge.svg" alt="MyBinder"/> badge on the github project page. MyBinder is available for the Unidata Python Workshop Jupyter notebooks at [this link](https://github.com/Unidata/unidata-python-workshop). See the [MyBinder](http://mybinder.org/) website for more information.
