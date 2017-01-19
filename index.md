@@ -41,10 +41,10 @@ GitHub is a online platform for hosting code that promotes collaboration.
 - [Installing Python on Mac OS X](conda-osx.html)
 - [Installing Python on Microsoft Windows](conda-windows.html)
 
-### Notebooks
+### Jupyter Notebooks
 
-- [How to Start and Run a Notebook](notebook.html)
-- [Unidata's Notebook Gallery](http://unidata.github.io/notebook-gallery)
+- [How to Start and Run a Jupyter Notebook](notebook.html)
+- [Unidata's Jupyter Notebook Gallery](http://unidata.github.io/notebook-gallery)
 - [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20Your%20Appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
@@ -55,7 +55,7 @@ Here are some good sources for learning the basics of Python's Syntax:
 - The [official](https://docs.python.org/3.5/tutorial/index.html) Python tutorial is pretty good as well
 
 ## Beginning Python Concepts
-What follows is a series of notebooks on learning Python with geoscience objectives. You can either peruse this material with the nbviewer links below or [run the notebooks interactively](notebook.html#how-to-run-opt-notebooks).
+What follows is a series of Jupyter notebooks on learning Python with geoscience objectives. You can either peruse this material with the nbviewer links below or [run the Jupyter notebooks interactively](notebook.html#how-to-run-opt-notebooks).
 
 - [Control Flow](controlflowintro.html)
   - [Conditionals](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Conditionals.ipynb)
