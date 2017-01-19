@@ -17,27 +17,34 @@ your suggestions for additions or improvements by contacting
 [Unidata Python Support](support.html).
 
 ## Introduction
-  - [What Is This?](what.html)
-  - [Why Python and Jupyter Notebooks?](introduction.html)
+
+- [What Is This?](what.html)
+- [Why Python and Jupyter Notebooks?](introduction.html)
 
 ## Getting Started
-- GitHub is a online platform for hosting code that promotes collaboration.
-  - [What Is Git, Github and Why Do You Care](git.html)
-  - [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
-  - [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github)
-    (*Free* video from egghead.io)
-  - [GitHub's Guides](https://guides.github.com/)
-  - [How to Contribute on Github](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-    (*Free* video series from egghead.io)
-  - [Online Interactive Git Tutorial (from GitHub)](https://try.github.io/)
-  - [Mac OS X and Windows Desktop Applications for Using Git and Github](https://git-scm.com/download/gui/windows)
-- Installing Python
-  - [Which Python?](choosing.html)
-  - [Installing Python on Mac OS X](conda-osx.html)
-  - [Installing Python on Microsoft Windows](conda-windows.html)
-- Notebooks
-  - [How to Start and Run a Notebook](notebook.html)
-  - [Unidata's Notebook Gallery](http://unidata.github.io/notebook-gallery)
+
+### Git and Github
+
+GitHub is a online platform for hosting code that promotes collaboration.
+
+- [What Is Git, Github and Why Do You Care](git.html)
+- [Introduction to GitHub](https://guides.github.com/activities/hello-world/)
+- [Creating a GitHub Account](https://egghead.io/lessons/javascript-introduction-to-github?series=how-to-contribute-to-an-open-source-project-on-github) (*Free* video from egghead.io)
+- [GitHub's Guides](https://guides.github.com/)
+- [How to Contribute on Github](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) (*Free* video series from egghead.io)
+- [Online Interactive Git Tutorial (from GitHub)](https://try.github.io/)
+- [Mac OS X and Windows Desktop Applications for Using Git and Github](https://git-scm.com/download/gui/windows)
+
+### Installing Python
+
+- [Which Python?](choosing.html)
+- [Installing Python on Mac OS X](conda-osx.html)
+- [Installing Python on Microsoft Windows](conda-windows.html)
+
+### Notebooks
+
+- [How to Start and Run a Notebook](notebook.html)
+- [Unidata's Notebook Gallery](http://unidata.github.io/notebook-gallery)
 - [Whetting Your Appetite for Python](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Whetting%20Your%20Appetite%20for%20Python.ipynb)
 
 ## Basic Python Syntax
