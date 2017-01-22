@@ -58,7 +58,7 @@ Here are some good sources for learning the basics of Python's Syntax:
 What follows is a series of Jupyter notebooks on learning Python with geoscience objectives. You can either peruse this material with the nbviewer links below or [run the Jupyter notebooks interactively](notebook.html#how-to-run-opt-notebooks).
 
 - [Control Flow](controlflowintro.html)
-  - [Conditionals](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Conditionals.ipynb)
+  - [Conditional Statements](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Conditionals.ipynb)
   - [Loops](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Loops.ipynb)
   - [Functions](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Functions.ipynb)
 - [Basic Data Structures](http://nbviewer.jupyter.org/github/Unidata/online-python-training/blob/master/notebooks/Basic%20Data%20Structures.ipynb)
