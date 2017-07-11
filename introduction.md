@@ -8,7 +8,7 @@ title: Why Python and Jupyter Notebooks?
 One of the most significant advances in the scientific computing arena is underway with the explosion of interest in Jupyter (formerly, IPython) Notebook technology. The scientific publication *Nature* recently featured [an article on the benefits of Jupyter Notebooks](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) for scientific research. There are now Jupyter Notebooks on numerous topics in many scientific disciplines.  Here are a few examples of IPython Notebooks for science:
 
 -   [LIGO Gravitational Wave Data](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html)
--   Satellite Imagery Analysis ([Part 1](http://nbviewer.jupyter.org/github/Unidata/blog-notebooks/blob/master/notebooks/Plotting_GINI_Water_Vapor_Imagery_Part1.ipynb), [Part 2](http://nbviewer.jupyter.org/github/Unidata/blog-notebooks/blob/master/notebooks/Plotting_GINI_Water_Vapor_Imagery_Part2.ipynb))
+-   [Satellite Imagery Analysis](http://unidata.github.io/python-gallery/examples/Satellite_Example.html)
 -   [12 Steps to Navier-Stokes](https://github.com/barbagroup/CFDPython)
 -   [Computer Vision](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%2520Faces%2520in%2520the%2520Wild%2520recognition.ipynb)
 -   [Machine Learning](https://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%2520Machine%2520Learning%2520Notebook.ipynb)
