@@ -13,7 +13,9 @@ branches:
 
 before_install:
   - gem install github-pages
-  - pip install --user linkchecker pyopenssl ndg-httpsclient pyasn1 "requests<=2.9";
+  - pip install --user --upgrade pyopenssl
+  - pip install --user ndg-httpsclient pyasn1 "requests[security]>=2.4.0" "urllib3[secure]>=1.22"
+  - pip install --user git+https://github.com/linkcheck/linkchecker
 
 script:
   - jekyll build 2>build.log
@@ -25,4 +27,3 @@ script:
       echo Checking links;
       linkchecker --anchors --check-extern _site;
     fi
-        
