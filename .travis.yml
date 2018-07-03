@@ -4,8 +4,7 @@ language: python
 sudo: false
 
 python:
-  - 3.4
-  - 3.5
+  - 3.6
 
 before_install:
   # Taken from: http://conda.pydata.org/docs/travis.html
