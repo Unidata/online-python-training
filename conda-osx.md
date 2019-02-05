@@ -14,7 +14,7 @@ When you start using Python, you will want use software libraries that are not p
 
 ## Installing the `conda` Package Management Tool
 
-The `conda` package management tool is part of the Anaconda software package. Install `conda` by navigating to the [Anaconda download page](https://www.continuum.io/downloads). Scroll down to the "Anaconda for OS X" portion of the web page.
+The `conda` package management tool is part of the Anaconda software package. Install `conda` by navigating to the [Anaconda download page](https://www.anaconda.com/distribution/). Scroll down to the "Anaconda for OS X" portion of the web page.
 
 Download the Python 3.5 version by clicking on the "Mac OS X 64 bit Graphical Installer" link. It is a big download, so it is best to be on fast network. Open the installer file you just downloaded. It should be named something like `Anaconda[version]-MacOSX-x86_64.pkg`.
 
