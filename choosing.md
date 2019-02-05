@@ -23,7 +23,7 @@ applications of environments:
 
 ## Anaconda vs. Miniconda
 There are two options for getting Conda:
-[Anaconda](https://www.continuum.io/downloads) and
+[Anaconda](https://www.anaconda.com/distribution/) and
 [miniconda](http://conda.pydata.org/miniconda.html). Anaconda is a full
 distribution of Python, and comes with over 150 packages in the download;
 consequently, this download is over 3GB. Anaconda is good if you want to have
@@ -31,7 +31,7 @@ many packages downloaded and available in one shot; this is especially useful
 if you know you'll be working offline for awhile. Miniconda contains only
 Python and other libraries needed to run Conda itself; other packages will be
 downloaded and installed as requested. For more information, see
-[here](http://conda.pydata.org/docs/download.html).
+[here](https://conda.io/en/latest/miniconda.html).
 
 ## Python 2 vs. 3
 In 2008, the core Python development team released Python 3.0; the goal of that
