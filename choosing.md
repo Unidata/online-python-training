@@ -24,7 +24,7 @@ applications of environments:
 ## Anaconda vs. Miniconda
 There are two options for getting Conda:
 [Anaconda](https://www.anaconda.com/distribution/) and
-[miniconda](http://conda.pydata.org/miniconda.html). Anaconda is a full
+[miniconda](https://conda.io/en/latest/miniconda.html). Anaconda is a full
 distribution of Python, and comes with over 150 packages in the download;
 consequently, this download is over 3GB. Anaconda is good if you want to have
 many packages downloaded and available in one shot; this is especially useful
