@@ -4,7 +4,7 @@ sudo: false
 language: ruby
 
 # Needed for some github-pages dependencies
-rvm: 2.3
+rvm: 2.4
 
 branches:
   only:
