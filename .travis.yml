@@ -14,7 +14,7 @@ branches:
 before_install:
   - gem install github-pages
   - pip install --user --upgrade pyopenssl
-  - pip install --user ndg-httpsclient pyasn1 "requests[security]>=2.4.0" "urllib3[secure]>=1.22"
+  - pip install --user ndg-httpsclient pyasn1 "requests[security]>=2.22.0" "urllib3[secure]>=1.22"
   - pip install --user git+https://github.com/linkcheck/linkchecker
 
 script:
